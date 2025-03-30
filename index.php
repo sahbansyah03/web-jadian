@@ -8,7 +8,7 @@
         body {
             font-family: Arial, sans-serif;
             text-align: center;
-            background: url('foto/1.jpg') no-repeat center center fixed;
+            background: url('1.jpg') no-repeat center center fixed;
             background-size: cover;
             color: #d63384;
             padding: 50px;
@@ -60,21 +60,21 @@
             <p id="puisi"></p>
             <div class="video-container">
                 <video width="50%" controls>
-                    <source src="vidio/h1.mp4" type="video/mp4">
+                    <source src="h1.mp4" type="video/mp4">
                     Browser Anda tidak mendukung video.
                 </video>
             </div>
             <div class="photo-gallery">
                 <h3>Kenangan Indah Kita 💕</h3>
-                <img src="foto/1.jpg" alt="hehe">
-                <img src="foto/2.jpg" alt="Foto Kenangan 2">
-                <img src="foto/3.jpg" alt="Foto Kenangan 3">
-                <img src="foto/4.jpg" alt="Foto Kenangan 4">
-                <img src="foto/5.jpg" alt="Foto Kenangan 5">
-                <img src="foto/6.jpg" alt="Foto Kenangan 6">
-                <img src="foto/10.jpg" alt="Foto Kenangan 10">
-                <img src="foto/11.jpg" alt="Foto Kenangan 11">
-                <img src="foto/12.jpg" alt="Foto Kenangan 12">
+                <img src="1.jpg" alt="hehe">
+                <img src="2.jpg" alt="Foto Kenangan 2">
+                <img src="3.jpg" alt="Foto Kenangan 3">
+                <img src="4.jpg" alt="Foto Kenangan 4">
+                <img src="5.jpg" alt="Foto Kenangan 5">
+                <img src="6.jpg" alt="Foto Kenangan 6">
+                <img src="10.jpg" alt="Foto Kenangan 10">
+                <img src="11.jpg" alt="Foto Kenangan 11">
+                <img src="12.jpg" alt="Foto Kenangan 12">
 
                 
                 <p>Setiap momen bersamamu adalah anugerah yang tak ternilai. Aku bersyukur bisa bersamamu. 💖</p>
